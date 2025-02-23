@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: psschiatanya/zomato:25_20250223_1026
+        image: psschiatanya/zomato:26_20250223_1036
         ports:
         - containerPort: 3000   # Use port 3000
